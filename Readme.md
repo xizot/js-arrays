@@ -1,3 +1,6 @@
+## Install packages
+npm run i
+
 ## Run test by specific file
 ```
 npm run filter.test
