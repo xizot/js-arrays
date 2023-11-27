@@ -1,0 +1,21 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "filter.test": "jest ./test/filter.test.js",
+    "map.test": "jest ./test/filter.test.js",
+    "forEach.test": "jest ./test/filter.test.js",
+    "findIndex.test": "jest ./test/filter.test.js",
+    "reduce.test": "jest ./test/filter.test.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
