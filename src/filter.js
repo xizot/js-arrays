@@ -1,5 +1,4 @@
-const data = require('./data.js')
-const persons = data.persons;
+const { persons } = require('./data.js')
 
 const personsHasAgeGreaterThanParams = (age) => {
   // Code here: return persons with age greater than parameter
