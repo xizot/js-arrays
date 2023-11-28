@@ -6,6 +6,11 @@ const persons = [
   { name: 'Tony', age: 24, address: 'Malang', member: true },
 ]
 
+const numbers = [1, 2, 3, 4, 5];
+const words = ["apple", "banana", "cherry"];
+
 module.exports = {
-  persons
+  persons,
+  numbers,
+  words
 }
